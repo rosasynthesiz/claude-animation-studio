@@ -1,0 +1,8 @@
+{
+ "_comment": "Music beds for build_audio.py, relative to OVS_SOUNDS_DIR. Supply your own royalty-free or licensed loops; none ship with this skill.",
+ "setup": "music/setup-pizzicato-loop.wav",
+ "march": "music/march-tuba-loop.wav",
+ "march_snare": "music/march-snare-loop.wav",
+ "march_snare_atempo": 0.928571,
+ "after": "music/after-klezmer-loop.wav"
+}

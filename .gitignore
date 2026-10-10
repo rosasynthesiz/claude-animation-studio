@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+._*
+.venv/
+node_modules/
+# user media and render outputs: never commit
+sounds/
+videos/
+renders/
+assets/*
+!assets/*.png
+*.wav
+*.mp3
+*.mp4
+.hyperframes/
+audio_meta.json

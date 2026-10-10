@@ -1,0 +1,271 @@
+[
+ {
+  "frame": 1,
+  "t": 0.0,
+  "name": "emu-dash-swish",
+  "src": "sfx/swish.wav",
+  "len": 0.6,
+  "fade": 0.1,
+  "free": -22
+ },
+ {
+  "frame": 1,
+  "t": 0.3,
+  "name": "bird-call-stare",
+  "src": "sfx/bird-call.wav",
+  "start": 0.0,
+  "len": 2.3,
+  "fade": 0.4,
+  "free": -24
+ },
+ {
+  "frame": 2,
+  "t": 0.64,
+  "name": "emus-stroll",
+  "src": "sfx/fat-walk.wav",
+  "start": 0.0,
+  "len": 1.4,
+  "fade": 0.2,
+  "free": -22
+ },
+ {
+  "frame": 2,
+  "t": 1.28,
+  "name": "wheat-vanish-xylo",
+  "src": "sfx/xylophone-run.wav",
+  "start": 0.0,
+  "len": 0.85,
+  "fade": 0.15,
+  "free": -22
+ },
+ {
+  "frame": 2,
+  "t": 1.8,
+  "name": "fence-1-tympani",
+  "src": "sfx/tympani-bounce.wav",
+  "len": 0.6,
+  "fade": 0.15,
+  "free": -20
+ },
+ {
+  "frame": 2,
+  "t": 1.98,
+  "name": "fence-2-tympani",
+  "src": "sfx/tympani-bounce.wav",
+  "len": 0.6,
+  "fade": 0.15,
+  "free": -20
+ },
+ {
+  "frame": 2,
+  "t": 3.28,
+  "name": "medal-glock",
+  "src": "sfx/glockenspiel.wav",
+  "start": 0.0,
+  "len": 0.45,
+  "fade": 0.12,
+  "free": -22
+ },
+ {
+  "frame": 2,
+  "t": 4.56,
+  "name": "phone-ding",
+  "src": "sfx/ding.wav",
+  "len": 1.1,
+  "fade": 0.3,
+  "free": -20
+ },
+ {
+  "frame": 3,
+  "t": 0.72,
+  "name": "stamp-yes",
+  "src": "sfx/slap.wav",
+  "len": 0.6,
+  "fade": 0.15,
+  "free": -19
+ },
+ {
+  "frame": 3,
+  "t": 1.28,
+  "name": "smash-zoom-swish",
+  "src": "sfx/swish.wav",
+  "len": 0.6,
+  "fade": 0.1,
+  "free": -20
+ },
+ {
+  "frame": 3,
+  "t": 1.4,
+  "name": "zoom-land-tympani",
+  "src": "sfx/tympani-bounce.wav",
+  "len": 0.6,
+  "fade": 0.15,
+  "free": -20
+ },
+ {
+  "frame": 3,
+  "t": 2.48,
+  "name": "crates-pop",
+  "src": "sfx/cartoon-pop.wav",
+  "len": 0.7,
+  "fade": 0.2,
+  "free": -20
+ },
+ {
+  "frame": 4,
+  "t": 0.64,
+  "name": "emus-run-away",
+  "src": "sfx/run-away.wav",
+  "len": 1.2,
+  "fade": 0.3,
+  "free": -21
+ },
+ {
+  "frame": 4,
+  "t": 0.66,
+  "name": "emus-slide-whistle",
+  "src": "sfx/slide-whistle-up.wav",
+  "len": 0.6,
+  "fade": 0.15,
+  "free": -21
+ },
+ {
+  "frame": 4,
+  "t": 1.12,
+  "name": "gun-burst-1",
+  "src": "sfx/snare-roll.wav",
+  "start": 0.25,
+  "len": 0.5,
+  "fade": 0.06,
+  "free": -19
+ },
+ {
+  "frame": 4,
+  "t": 2.96,
+  "name": "gun-jam-bend",
+  "src": "sfx/boing-bend.wav",
+  "len": 0.36,
+  "fade": 0.03,
+  "free": -20
+ },
+ {
+  "frame": 5,
+  "t": 0.96,
+  "name": "truck-clown-horn",
+  "src": "sfx/clown-horn.wav",
+  "len": 1.0,
+  "fade": 0.2,
+  "free": -20
+ },
+ {
+  "frame": 5,
+  "t": 2.32,
+  "name": "emu-overtakes-whistle",
+  "src": "sfx/slide-whistle-down.wav",
+  "start": 0.05,
+  "len": 0.85,
+  "fade": 0.2,
+  "free": -21
+ },
+ {
+  "frame": 5,
+  "t": 2.96,
+  "name": "scoreboard-womp",
+  "src": "sfx/womp.wav",
+  "len": 1.2,
+  "fade": 0.25,
+  "free": -20
+ },
+ {
+  "frame": 5,
+  "t": 4.24,
+  "name": "parliament-honk",
+  "src": "sfx/honk.wav",
+  "len": 0.7,
+  "fade": 0.15,
+  "free": -20
+ },
+ {
+  "frame": 6,
+  "t": 0.0,
+  "name": "soldier-march-steps",
+  "src": "sfx/marching-steps.wav",
+  "start": 0.1,
+  "len": 0.85,
+  "fade": 0.1,
+  "free": -21
+ },
+ {
+  "frame": 6,
+  "t": 0.88,
+  "name": "gun-burst-2",
+  "src": "sfx/snare-roll.wav",
+  "start": 1.0,
+  "len": 1.1,
+  "fade": 0.1,
+  "free": -20
+ },
+ {
+  "frame": 6,
+  "t": 2.0,
+  "name": "counter-ding",
+  "src": "sfx/counter-ding.wav",
+  "len": 0.8,
+  "fade": 0.2,
+  "free": -21
+ },
+ {
+  "frame": 6,
+  "t": 3.78,
+  "name": "per-bird-hit",
+  "src": "sfx/cartoon-pop.wav",
+  "len": 0.7,
+  "fade": 0.2,
+  "free": -19
+ },
+ {
+  "frame": 6,
+  "t": 5.6,
+  "name": "gave-up-slide",
+  "src": "sfx/slide-down.wav",
+  "len": 0.72,
+  "fade": 0.1,
+  "free": -21
+ },
+ {
+  "frame": 7,
+  "t": 0.64,
+  "name": "emus-1-tada",
+  "src": "sfx/tada.wav",
+  "len": 2.4,
+  "fade": 0.4,
+  "free": -19
+ },
+ {
+  "frame": 7,
+  "t": 6.24,
+  "name": "no-stamps",
+  "src": "sfx/slap.wav",
+  "len": 0.6,
+  "fade": 0.15,
+  "free": -18
+ },
+ {
+  "frame": 7,
+  "t": 6.26,
+  "name": "no-stamps-tympani",
+  "src": "sfx/tympani-bounce.wav",
+  "len": 0.7,
+  "fade": 0.2,
+  "free": -20
+ },
+ {
+  "frame": 7,
+  "t": 7.4,
+  "name": "emu-blink-xylo",
+  "src": "sfx/xylophone-blink.wav",
+  "len": 1.1,
+  "fade": 0.3,
+  "free": -20
+ }
+]
